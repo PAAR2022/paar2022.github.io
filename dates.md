@@ -1,7 +1,10 @@
 ## Important Dates
 
-* Abstract submission: 3 May 2022
-* Paper submission: 10 May 2022
-* Author notification: 15 June 2022
-* Camera-ready paper versions due: 
-* Workshop:
+* Abstract submission: April 26, 2022
+* Paper submission: May 3, 2022
+* Author notification: June 3, 2022
+* Camera-ready paper versions due: June 24, 2022
+* Workshop: August 11 - August 12, 2022
+
+We encourage authors to submit their contributions as early as possible. See <a href="{{ "submission.html" }}">Paper Submission</a>
+for details.
