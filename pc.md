@@ -1,10 +1,13 @@
 ## Committees
 
-### Program Committee
+### Program Committee (to be completed)
 
-* tba
+* <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a> (PC co-chair)
+* <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a> (PC co-chair)
+* <a href="https://www.alexandersteen.de/">Alexander Steen</a> (PC co-chair)
+* ...
 
-### Steering Committee
+### PAAR Steering Committee
 
 * <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a>
 * <a href="http://www.cs.man.ac.uk/~schmidt/">Renate Schmidt</a>
