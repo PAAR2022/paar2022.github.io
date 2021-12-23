@@ -1,0 +1,96 @@
+******************************************************************************
+                                                                            
+                                                                             
+        PAAR-2022: 8TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING 
+                   -- co-located with FLoC/IJCAR 2022  -- 
+                                                                            
+                     August 11-12, 2022, Haifa, Israel
+
+        Web site: https://paar2022.github.io/
+        Submission link: https://easychair.org/conferences/?conf=paar2022
+        Abstract registration deadline: April 19, 2022
+        Submission deadline: April 26, 2022
+        Topics: automated reasoning, implementation, tools
+
+
+******************************************************************************
+
+
+The automation of logical reasoning is a challenge that has been
+studied intensively in fields including mathematics, philosophy, and
+computer science. PAAR is the workshop on turning this theory into
+practice: how can automated reasoning tools be built that work and are
+useful in applications? PAAR covers all aspects of this challenge:
+which theories, logics, or fragments are well-behaved in practice, and
+connect well to application domains? which reasoning tasks are
+tractable and useful? which algorithms are able to solve real-world
+instances? how should automated reasoning tools be designed,
+implemented, tested, and evaluated?
+
+The goal of PAAR is to bring together theoreticians, tool developers,
+and users, to concentrate on the practical aspects of automated
+reasoning. The workshop welcomes high-quality contributions of any
+kind, including new research results, presentation of work in
+progress, presentation of new tools, new implementation techniques,
+new application domains, or case studies.
+
+PAAR 2022 will host the meeting of the working group on Automated
+Theorem Provers of the EuroProofNet COST action 
+(https://europroofnet.github.io/). Every workshop participant is 
+welcome to attend.
+
+Submission Guidelines
+---------------------
+Researchers interested in participating are invited to submit either an
+extended abstract (up to 8 pages) or a regular paper (up to 15 pages), excluding
+references, via EasyChair at https://easychair.org/conferences/?conf=paar2022.
+Submissions will be refereed by the program committee, which will select a balanced 
+program of high-quality contributions. Short submissions that could stimulate 
+fruitful discussion at the workshop are particularly welcome.
+
+Submissions should be prepared in LaTeX using the EasyChair proceedings style. 
+The package containing the class file and its user guide and some helper tools 
+can be downloaded from http://www.easychair.org/publications/easychair.zip.
+
+Topics include, but are not limited to:
+--------------------------------------
+* automated reasoning in propositional, first-order, higher-order, and
+  non-classical logics;
+* implementation of provers (SAT, SMT, resolution, superposition, tableau,
+   instantiation-based, rewriting, logical frameworks, etc.);
+* automated reasoning tools for all kinds of practical problems and
+  applications;
+* pragmatics of automated reasoning within proof assistants;
+* practical experiences, usability aspects, feasibility studies;
+* evaluation of implementation techniques and automated reasoning tools;
+* performance aspects, benchmarking approaches; non-standard approaches to
+  automated reasoning, non-standard forms of automated reasoning, new
+  applications;
+* implementation techniques, optimisation techniques, machine learning,
+  strategies and heuristics, fairness;
+* tools or methods that support prover development;
+* system descriptions and demos.  
+
+Programme Committee
+-------------------
+
+* Boris Konev, University of Liverpool (PC co-chair)
+* Claudia Schon, University of Koblenz-Landau  (PC co-chair)
+* Alexander Steen, University of Luxembourg (PC co-chair)
+
+PC members to be completed.
+
+Publication
+-----------
+PAAR proceedings will be published electronically in the CEUR workshop
+proceedings.  
+
+Venue
+-----
+FLoC 2022 at Haifa, Israel
+
+Important dates
+---------------
+* Abstract submission: April 19, 2022
+* Paper submission: April 26, 2022
+* Workshop: August 11 - August 12, 2022

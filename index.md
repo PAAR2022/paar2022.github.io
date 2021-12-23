@@ -5,6 +5,9 @@
 The Eighth Workshop on Practical Aspects of Automated Reasoning will take place on August 11-12, 2022
 in Haifa, Isreal. PAAR 2022 is associated with the 11th International Joint Conference on Automated Reasoning (IJCAR-2022).
 
+<p style="border:1px solid black;padding: 2px 4px"><span style="font-weight: bold">Call for Papers launched:</span> See the <a href="#">CfP as plaintext file</a>.</p>
+
+
 ### Scope
 PAAR provides a forum for developers of automated reasoning tools to discuss and compare different
 implementation techniques, and for users to discuss and communicate their applications
