@@ -6,4 +6,4 @@ Submissions should be in PDF. Final versions should be prepared in LaTeX using t
 
 Call for Papers: Available on [EasyChair Smart CFP](https://easychair.org/cfp/PAAR2022) or as [Plantext file](cfp-paar2022.txt).
 
-Submission URL (EasyChair): https://easychair.org/conferences/?conf=paar2022
+Submission URL (EasyChair): [https://easychair.org/conferences/?conf=paar2022](https://easychair.org/conferences/?conf=paar2022)
