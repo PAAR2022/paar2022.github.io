@@ -2,10 +2,27 @@
 
 ### Program Committee (to be completed)
 
-* <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a> (PC co-chair)
-* <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a> (PC co-chair)
-* <a href="https://www.alexandersteen.de/">Alexander Steen</a> (PC co-chair)
+* <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a>, University of Liverpool, UK (PC co-chair)
+* <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a>, University of Koblenz-Landau, DE (PC co-chair)
+* <a href="https://www.alexandersteen.de/">Alexander Steen</a>, University of Greifswald, DE (PC co-chair)
+* Gabriel Ebner, Vrije Universiteit Amsterdam, NL
+* Pascal Fontaine, Université de Liège, BE
+* Ulrich Furbach, University of Koblenz, DE
+* Cezary Kaliszyk, University of Innsbruck, AT
+* Daniel Le Berre, CNRS - Université d'Artois, FR
+* Ondrej Lengal, Brno University of Technology, CZ
+* Cláudia Nalon, University of Brasília, BR
+* Jens Otten, University of Oslo, NO
+* Philipp Ruemmer, Uppsala University, SE
+* Renate A. Schmidt, The University of Manchester, UK
+* Stephan Schulz, DHBW Stuttgart, DE
+* Martin Suda, Czech Technical University in Prague, CZ
+* Sophie Tourret, Inria and MPI for Informatics, DE
+* Petar Vukmirović, Vrije Universiteit Amsterdam, NL
+* Sarah Winkler, Free University of Bolzano-Bozen, IT
+* Aleksandar Zeljić, Stanford University, US
 * ...
+
 
 ### PAAR Steering Committee
 
