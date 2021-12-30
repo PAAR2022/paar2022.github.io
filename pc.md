@@ -5,6 +5,7 @@
 * <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a>, University of Liverpool, UK (PC co-chair)
 * <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a>, University of Koblenz-Landau, DE (PC co-chair)
 * <a href="https://www.alexandersteen.de/">Alexander Steen</a>, University of Greifswald, DE (PC co-chair)
+* Simon Cruanes, Imandra, US
 * Gabriel Ebner, Vrije Universiteit Amsterdam, NL
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
