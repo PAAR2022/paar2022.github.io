@@ -74,9 +74,9 @@ Topics include, but are not limited to:
 Programme Committee
 -------------------
 
-* Boris Konev, University of Liverpool (PC co-chair)
-* Claudia Schon, University of Koblenz-Landau  (PC co-chair)
-* Alexander Steen, University of Luxembourg (PC co-chair)
+* Boris Konev, University of Liverpool, UK (PC co-chair)
+* Claudia Schon, University of Koblenz-Landau, DE  (PC co-chair)
+* Alexander Steen, University of Greifswald, DE (PC co-chair)
 * Simon Cruanes, Imandra, US
 * Hans de Nivelle, Nazarbayev University, KZ
 * Gabriel Ebner, Vrije Universiteit Amsterdam, NL
