@@ -85,6 +85,7 @@ Programme Committee
 * Cezary Kaliszyk, University of Innsbruck, AT
 * Daniel Le Berre, CNRS - Université d'Artois, FR
 * Ondrej Lengal, Brno University of Technology, CZ
+* Tomer Libal, American University of Paris, FR and University of Luxembourg, LU
 * Cláudia Nalon, University of Brasília, BR
 * Jens Otten, University of Oslo, NO
 * Philipp Ruemmer, Uppsala University, SE
