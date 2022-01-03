@@ -6,6 +6,7 @@
 * <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a>, University of Koblenz-Landau, DE (PC co-chair)
 * <a href="https://www.alexandersteen.de/">Alexander Steen</a>, University of Greifswald, DE (PC co-chair)
 * Simon Cruanes, Imandra, US
+* Hans de Nivelle, Nazarbayev University, KZ
 * Gabriel Ebner, Vrije Universiteit Amsterdam, NL
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
@@ -17,6 +18,7 @@
 * Philipp Ruemmer, Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK
 * Stephan Schulz, DHBW Stuttgart, DE
+* Frieder Stolzenburg, Harz University of Applied Sciences, DE
 * Martin Suda, Czech Technical University in Prague, CZ
 * Sophie Tourret, Inria and MPI for Informatics, DE
 * Petar Vukmirović, Vrije Universiteit Amsterdam, NL
