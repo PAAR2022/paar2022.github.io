@@ -19,6 +19,7 @@
 * Philipp Ruemmer, Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK
 * Stephan Schulz, DHBW Stuttgart, DE
+* Mihaela Sighireanu, ENS Paris-Saclay and CNRS, FR
 * Frieder Stolzenburg, Harz University of Applied Sciences, DE
 * Martin Suda, Czech Technical University in Prague, CZ
 * Sophie Tourret, Inria and MPI for Informatics, DE
