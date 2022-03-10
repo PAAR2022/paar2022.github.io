@@ -48,9 +48,9 @@ Submissions will be refereed by the program committee, which will select a balan
 program of high-quality contributions. Short submissions that could stimulate 
 fruitful discussion at the workshop are particularly welcome.
 
-Submissions should be prepared in LaTeX using the EasyChair proceedings style. 
-The package containing the class file and its user guide and some helper tools 
-can be downloaded from http://www.easychair.org/publications/easychair.zip.
+Submissions should be prepared in LaTeX using the CEUR-WS.org style template
+(CEURART, one-column). The package containing the class file and the user guide
+can be downloaded from http://ceur-ws.org/Vol-XXX/CEURART.zip.
 
 Topics include, but are not limited to:
 --------------------------------------
