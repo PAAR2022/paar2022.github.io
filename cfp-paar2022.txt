@@ -5,11 +5,13 @@
                    -- co-located with FLoC/IJCAR 2022  -- 
                                                                             
                      August 11-12, 2022, Haifa, Israel
+                     
+             The paper submission deadline has been extended!
 
         Web site: https://paar2022.github.io/
         Submission link: https://easychair.org/conferences/?conf=paar2022
-        Abstract registration deadline: April 19, 2022
-        Submission deadline: April 26, 2022
+        Abstract registration deadline: May 2, 2022
+        Submission deadline: May 10, 2022
         Topics: automated reasoning, implementation, tools
 
 
