@@ -1,6 +1,6 @@
 ## Committees
 
-### Program Committee (to be completed)
+### Program Committee
 
 * <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a>, University of Liverpool, UK (PC co-chair)
 * <a href="https://userpages.uni-koblenz.de/~obermaie/">Claudia Schon</a>, University of Koblenz-Landau, DE (PC co-chair)
@@ -26,7 +26,6 @@
 * Petar Vukmirović, Vrije Universiteit Amsterdam, NL
 * Sarah Winkler, Free University of Bolzano-Bozen, IT
 * Aleksandar Zeljić, Stanford University, US
-* ...
 
 
 ### PAAR Steering Committee
