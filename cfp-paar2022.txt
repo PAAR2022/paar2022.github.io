@@ -71,6 +71,12 @@ Topics include, but are not limited to:
 * tools or methods that support prover development;
 * system descriptions and demos.  
 
+Invited Speakers
+-------------------
+
+* Geoff Sutcliffe (Univ. of Miami)
+* N.N.
+
 Programme Committee
 -------------------
 
@@ -99,7 +105,6 @@ Programme Committee
 * Sarah Winkler, Free University of Bolzano-Bozen, IT
 * Aleksandar Zeljić, Stanford University, US
 
-PC members list to be completed.
 
 Publication
 -----------
@@ -110,8 +115,8 @@ Venue
 -----
 FLoC 2022 at Haifa, Israel
 
-Important dates
+Important dates (extended deadlines)
 ---------------
-* Abstract submission: April 19, 2022
-* Paper submission: April 26, 2022
+* Abstract submission: May 2, 2022
+* Paper submission: May 9, 2022
 * Workshop: August 11 - August 12, 2022
