@@ -7,37 +7,42 @@ This is a draft program, and might still change slightly.
 |----------------|----------------------------------------------------------|
 | **Session 1**  |                                                          |
 | 09:00-10:00    | Invited Talk (NN)                                        |
-| 10:00-10:30    | Adding Assumptions to Non-Assuming SAT & QBF Solvers     |
+| 10:00-10:30    | QuAPI: Adding Assumptions to Non-Assuming SAT & QBF Solvers  <br> _Maximilian Heisinger, Martina Seidl and Armin Biere_   |
 |                | _Coffee break_                                           |
 | **Session 2**  |                                                          |
-| 11:00 - 11:30  | A Two-Watched Literal Scheme for First-Order Logic       |
-| 11:30 - 12:00  | Lazy Paramodulation in Practice                          |
-| 12:00 - 12:30  | Empirical Properties of Term Orderings for Superposition |
+| 11:00 - 11:30  | A Two-Watched Literal Scheme for First-Order Logic <br> _Martin Bromberger, Tobias Gehl, Lorenz Leutgeb and Christoph Weidenbach_       |
+| 11:30 - 12:00  | Lazy Paramodulation in Practice  <br> _Grzegorz Prusak and Cezary Kaliszyk_                        |
+| 12:00 - 12:30  | Empirical Properties of Term Orderings for Superposition <br> _Stephan Schulz_ |
 |                | _Lunch break_                                            |
 | **Session 3**  |                                                          |
-| 14:00 - 14:30  | Exploring Partial Models with SCL                        |
-| 14:30 - 15:00  | On SGGS and Horn Clauses                                 |
-| 15:00 - 15:30  | Exploring Representation of Horn clauses using GNNs      |
+| 14:00 - 14:30  | Exploring Partial Models with SCL <br> _Martin Bromberger, Simon Schwarz and Christoph Weidenbach_                       |
+| 14:30 - 15:00  | On SGGS and Horn Clauses <br> _Maria Paola Bonacina and Sarah Winkler_                                 |
+| 15:00 - 15:30  | Exploring Representation of Horn clauses using GNNs  <br> _Chencheng Liang, Philipp Rümmer and Marc Brockschmidt_    |
 |                | _Coffee break_                                           |
 | **Session 4**  |                                                          |
-| 16:00 - 16:30  | Optimal Strategy Schedules for Everyone                  |
-| 16:30 - 17:00  | The Vampire Approach to Induction                        |
-| 17:00 - 17:30  | Reuse of Introduced Symbols in Automatic Theorem Provers |
+| 16:00 - 16:30  | Optimal Strategy Schedules for Everyone  <br> _Hans-Jörg Schurr_                |
+| 16:30 - 17:00  | The Vampire Approach to Induction <br> _Marton Hajdu, Laura Kovacs, Michael Rawson and Andrei Voronkov_                     |
+| 17:00 - 17:30  | Reuse of Introduced Symbols in Automatic Theorem Provers <br> _Michael Rawson, Martin Suda, Petra Hozzová and Giles Reger_ |
 
+<hr>
 
-August 12:
-Session 1
-09:00 - 10:00 Geoff Sutcliffe (invited talk)
-10:00 - 10:30 Generating Compressed Combinatory Proof Structures: An Approach to Automated First-Order Theorem Proving (paper 7)
-Session 2
-11:00 - 11:30 Automated Reasoning in Non-classical Logics in the TPTP World     (paper 11)
-11:30 - 12:00 An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning (paper 9)
-12:00 - 12:30 The Isabelle Community Benchmark (paper 5)
-Session 3
-14:00 - 14:45 COST action EuroProofNet plenary presentation
-14:45 - 15:30 invited EuroProofNet tutorial Dedukti (Guillaume Burel)
-Session 4
-16:00 - 16:45 Invited EuroProofNet tutorial ATP (Petar Vukmirovic)
-16:45 - 17:30 Invited EuroProofNet tutorial SMT (Haniel Barbosa)
-17:30 - open end: WG 2 business meeting
+|               | **Friday, August 12 (Day 2)**                                                                            |
+|---------------|----------------------------------------------------------------------------------------------------------|
+| **Session 1** |                                                                                                          |
+| 09:00-10:00   | Invited Talk (Geoff Sutcliffe)                                                                           |
+| 10:00-10:30   | Generating Compressed Combinatory Proof Structures: An Approach to Automated First-Order Theorem Proving <br> _Christoph Wernhard_ |
+|               | _Coffee break_                                                                                           |
+| **Session 2** |                                                                                                          |
+| 11:00 - 11:30 | Automated Reasoning in Non-classical Logics in the TPTP World     <br> _Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller_                                       |
+| 11:30 - 12:00 | An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning  <br> _Alexander Steen_                              |
+| 12:00 - 12:30 | The Isabelle Community Benchmark <br> _Fabian Huch and Vincent Bode_                                                                        |
+|               | _Lunch break_                                                                                            |
+| **Session 3** |                                                                                                          |
+| 14:00 - 14:45 | COST action EuroProofNet plenary presentation                                                            |
+| 14:45 - 15:30 | EuroProofNet presentation (NN)                                                                           |
+|               | _Coffee break_                                                                                           |
+| **Session 4** |                                                                                                          |
+| 16:00 - 16:45 | EuroProofNet presentation (NN)                                                                           |
+| 16:45 - 17:30 | EuroProofNet presentation (NN)                                                                           |
+| 17:30 -       | WG 2 business meeting and plannning                                                                      |
 
