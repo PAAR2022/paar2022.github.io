@@ -30,12 +30,12 @@ This is a draft program, and might still change slightly.
 |---------------|----------------------------------------------------------------------------------------------------------|
 | **Session 1** |                                                                                                          |
 | 09:00-10:00   | Invited Talk (Geoff Sutcliffe)                                                                           |
-| 10:00-10:30   | Generating Compressed Combinatory Proof Structures: An Approach to Automated First-Order Theorem Proving <br> _Christoph Wernhard_ |
+| 10:00-10:30   | Automated Reasoning in Non-classical Logics in the TPTP World     <br> _Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller_ |
 |               | _Coffee break_                                                                                           |
 | **Session 2** |                                                                                                          |
-| 11:00 - 11:30 | Automated Reasoning in Non-classical Logics in the TPTP World     <br> _Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller_                                       |
-| 11:30 - 12:00 | An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning  <br> _Alexander Steen_                              |
-| 12:00 - 12:30 | The Isabelle Community Benchmark <br> _Fabian Huch and Vincent Bode_                                                                        |
+| 11:00 - 11:30 | Generating Compressed Combinatory Proof Structures: An Approach to Automated First-Order Theorem Proving <br> _Christoph Wernhard_ |
+| 11:30 - 12:00 | An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning  <br> _Alexander Steen_       |
+| 12:00 - 12:30 | The Isabelle Community Benchmark <br> _Fabian Huch and Vincent Bode_                                     |
 |               | _Lunch break_                                                                                            |
 | **Session 3** |                                                                                                          |
 | 14:00 - 14:45 | COST action EuroProofNet plenary presentation                                                            |
