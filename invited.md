@@ -1,13 +1,16 @@
 ## Invited Speakers
 
-### Geoff Sutcliffe (University of Miami)
+### Josef Urban (Czech Technical University, CZ), August 11, 09:00 - 10:00
+
 
 Talk: TBA
 
 Abstract: TBA
 
-### N.N.
+### Geoff Sutcliffe (University of Miami, USA), August 12, 09:00 - 10:00
 
 Talk: TBA
 
 Abstract: TBA
+
+

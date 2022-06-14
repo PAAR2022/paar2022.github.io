@@ -6,7 +6,7 @@ This is a draft program, and might still change slightly.
 |                | **Thursday, August 11 (Day 1)**                          |
 |----------------|----------------------------------------------------------|
 | **Session 1**  |                                                          |
-| 09:00-10:00    | Invited Talk (NN)                                        |
+| 09:00-10:00    | Josef Urban (invited talk), title: TBA                                  |
 | 10:00-10:30    | QuAPI: Adding Assumptions to Non-Assuming SAT & QBF Solvers  <br> _Maximilian Heisinger, Martina Seidl and Armin Biere_   |
 |                | _Coffee break_                                           |
 | **Session 2**  |                                                          |
@@ -29,7 +29,7 @@ This is a draft program, and might still change slightly.
 |               | **Friday, August 12 (Day 2)**                                                                            |
 |---------------|----------------------------------------------------------------------------------------------------------|
 | **Session 1** |                                                                                                          |
-| 09:00-10:00   | Invited Talk (Geoff Sutcliffe)                                                                           |
+| 09:00-10:00   | Geoff Sutcliffe (invited talk), title: TBA                                                                           |
 | 10:00-10:30   | Automated Reasoning in Non-classical Logics in the TPTP World     <br> _Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller_ |
 |               | _Coffee break_                                                                                           |
 | **Session 2** |                                                                                                          |
