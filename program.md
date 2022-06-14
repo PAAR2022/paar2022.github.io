@@ -29,7 +29,7 @@ This is a draft program, and might still change slightly.
 |               | **Friday, August 12 (Day 2)**                                                                            |
 |---------------|----------------------------------------------------------------------------------------------------------|
 | **Session 1** |                                                                                                          |
-| 09:00-10:00   | Geoff Sutcliffe (invited talk), title: <a href="{{ "invited.md" }}">The Logic Languages of the TPTP World</a>              |
+| 09:00-10:00   | Geoff Sutcliffe (invited talk), title: <a href="{{ "invited.html" }}">The Logic Languages of the TPTP World</a>              |
 | 10:00-10:30   | Automated Reasoning in Non-classical Logics in the TPTP World     <br> _Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller_ |
 |               | _Coffee break_                                                                                           |
 | **Session 2** |                                                                                                          |
