@@ -39,10 +39,9 @@ This is a draft program, and might still change slightly.
 |               | _Lunch break_                                                                                            |
 | **Session 3** |                                                                                                          |
 | 14:00 - 14:45 | COST action EuroProofNet plenary presentation                                                            |
-| 14:45 - 15:30 | EuroProofNet presentation (NN)                                                                           |
+| 14:45 - 15:30 | Andres Notzli (U Stanford): EuroProofNet presentation on SMT and proofs                                  |
 |               | _Coffee break_                                                                                           |
 | **Session 4** |                                                                                                          |
-| 16:00 - 16:45 | EuroProofNet presentation (NN)                                                                           |
-| 16:45 - 17:30 | EuroProofNet presentation (NN)                                                                           |
-| 17:30 -       | WG 2 business meeting and plannning                                                                      |
+| 16:00 - 16:45 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
+| 16:45 - 17:30 | WG 2 business meeting and plannning                                                                      |
 
