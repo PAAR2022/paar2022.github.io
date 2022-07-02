@@ -1,5 +1,7 @@
 ## Program
 
+This year's PAAR is colocated with the [WG2 COST EuroProofNet kickoff meeting](https://europroofnet.github.io/wg2-meeting1/). Please checkout its site for more information about the meeting. 
+
 This is a draft program, and might still change slightly.
 
 
