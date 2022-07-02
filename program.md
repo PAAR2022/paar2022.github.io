@@ -43,5 +43,5 @@ This is a draft program, and might still change slightly.
 |               | _Coffee break_                                                                                           |
 | **Session 4** |                                                                                                          |
 | 16:00 - 16:45 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
-| 16:45 - 17:30 | WG 2 business meeting and plannning                                                                      |
+| 16:45 - 17:30 | WG 2 business meeting and planning                                                                      |
 
