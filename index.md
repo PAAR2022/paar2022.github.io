@@ -34,3 +34,7 @@ Topics include but are not limited to:
 We are particularly interested in contributions that help the community to understand how to build
 useful reasoning systems in practice, and how to apply existing systems to real problems.
 
+**EuroProofNet WG2 meeting**
+
+This year's PAAR is colocated with the [WG2 COST EuroProofNet kickoff meeting](https://europroofnet.github.io/wg2-meeting1/). Please checkout its site for more information about the meeting. 
+
