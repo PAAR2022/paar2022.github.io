@@ -40,10 +40,11 @@ This is a draft program, and might still change slightly.
 | 12:00 - 12:30 | The Isabelle Community Benchmark <br> _Fabian Huch and Vincent Bode_                                     |
 |               | _Lunch break_                                                                                            |
 | **Session 3** |                                                                                                          |
-| 14:00 - 14:45 | COST action EuroProofNet plenary presentation                                                            |
+| 14:00 - 14:05 | short COST action EuroProofNet introduction                                                              |
+| 14:00 - 14:45 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
 | 14:45 - 15:30 | Andres Notzli (U Stanford): EuroProofNet presentation on SMT and proofs                                  |
 |               | _Coffee break_                                                                                           |
 | **Session 4** |                                                                                                          |
-| 16:00 - 16:45 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
-| 16:45 - 17:30 | WG 2 business meeting and planning                                                                      |
+| 16:00 - 16:45 | Discussion on SMT proofs (joint with SMT workshop)                                                       |
+| 16:45 - 17:30 | WG 2 business meeting and planning                                                                       |
 
