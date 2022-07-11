@@ -41,8 +41,8 @@ This is a draft program, and might still change slightly.
 |               | _Lunch break_                                                                                            |
 | **Session 3** |                                                                                                          |
 | 14:00 - 14:05 | short COST action EuroProofNet introduction                                                              |
-| 14:05 - 14:45 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
-| 14:45 - 15:30 | Andres Notzli (U Stanford): EuroProofNet presentation on SMT and proofs                                  |
+| 14:05 - 14:50 | Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti                                 |
+| 14:50 - 15:35 | Andres Notzli (U Stanford): EuroProofNet presentation on SMT and proofs                                  |
 |               | _Coffee break_                                                                                           |
 | **Session 4** |                                                                                                          |
 | 16:00 - 16:45 | Discussion on SMT proofs (joint with SMT workshop)                                                       |
