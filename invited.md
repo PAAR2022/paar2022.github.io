@@ -3,9 +3,16 @@
 ### Josef Urban (Czech Technical University, CZ)
 #### August 11, 09:00 - 10:00
 
-Talk: TBA
+Talk: Training ENIGMAs, CoPs, and other thinking creatures
 
-Abstract: TBA
+Abstract: The talk will mainly discuss several recent AI/TP systems and
+experiments that combine reasoning with learning in positive feedback
+loops. I will try to describe the settings, the datasets that may
+today contain millions of proofs, the interesting parts of the
+algorithms, and some of the practical challenges when building
+learning-guided systems that actually prove theorems in real
+time. Time permitting, I will also discuss the outlook, interesting
+future directions and initial experiments related to them.
 
 ### Geoff Sutcliffe (University of Miami, USA)
 #### August 12, 09:00 - 10:00
