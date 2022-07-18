@@ -8,7 +8,7 @@ This is a draft program, and might still change slightly.
 |                | **Thursday, August 11 (Day 1)**                          |
 |----------------|----------------------------------------------------------|
 | **Session 1**  |                                                          |
-| 09:00-10:00    | Josef Urban (invited talk), title: TBA                                  |
+| 09:00-10:00    | Josef Urban (invited talk), title: <a href="{{ "invited.html" }}">Training ENIGMAs, CoPs, and other thinking creatures</a>                                   |
 | 10:00-10:30    | QuAPI: Adding Assumptions to Non-Assuming SAT & QBF Solvers  <br> _Maximilian Heisinger, Martina Seidl and Armin Biere_   |
 |                | _Coffee break_                                           |
 | **Session 2**  |                                                          |
